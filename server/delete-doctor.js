@@ -26,4 +26,4 @@ try {
   console.log('Doctor account deletion complete!');
 } catch (error) {
   console.error('Error deleting doctor account:', error.message);
-}
+};

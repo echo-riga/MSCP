@@ -272,4 +272,4 @@ try {
       process.exit(1);
     }
   }
-}
+};
